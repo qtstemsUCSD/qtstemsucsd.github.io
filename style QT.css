@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#333;
+
+}
+
+#splash {
+	background-image:url(galaxy.jpg);
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+
+}
+
+#logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+	padding-top:15%;
+	padding-bottom:15%;
+}
+
+h1 {
+	text-align: center;
+	color: #FFF;
+	font-family: 'Raleway', sans-serif;
+	
+}
+
+p {
+	text-align: center;
+	color: #FFF;
+	font-family: 'Raleway', sans-serif;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+#footer {
+	padding-bottom: 10%;
+}
